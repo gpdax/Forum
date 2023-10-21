@@ -95,6 +95,12 @@
         <td>
       &nbsp;
       </td>
+	<td>
+	<input type="text" name="telephone" class="form-control" palceholder="Telephone" required>	
+	</td>
+	<td>
+	&nbps;	
+	</td>		
           <td colspan="3">
        	<input type="email" name="eaddress" class="form-control"   placeholder="Email Address" required> 
        </td>
